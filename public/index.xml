@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie Marshak</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Charlie Marshak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2019 13:44:13 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 30 Aug 2019 13:44:13 -0700</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I am a JPL Postdoctoral fellow working under the supervision of Marc Simard using airborne and satellite SAR imagery to estimate biomass and detect forest disturbances. I apply tools from computer vision and variational image processing to analyze backscatter and coherence images.</description>
+    </item>
+    
+    <item>
+      <title>California Ballot Initiatives Discussion</title>
+      <link>http://example.org/events/my-first-post/</link>
+      <pubDate>Fri, 30 Aug 2019 09:58:04 -0700</pubDate>
+      
+      <guid>http://example.org/events/my-first-post/</guid>
+      <description>Mona is giving a informational seminar at Eagle Rock Library.</description>
+    </item>
+    
+    <item>
+      <title>Publications and Conference Proceedings</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>Charlie Z. Marshak, Marc Simard, and Michael Denbina Monitoring Forest Loss in ALOS/PALSAR Time-Series with Superpixels, (Remote Sensing, 2019). Publisher link.
+ Charlie Z. Marshak, Igor Yanovsky, and Luminita Vese. Energy Minimization for Cirrus and Cumulus Cloud Separation in Atmospheric Images. (IGARSS, 2018). Preprint.
+ Mihai Cucuringu, Charlie Z. Marshak, Dillon Montag, and M. Puck Rombach. Rank Aggregation for Course Sequence Discovery. (Complex Networks, 2017). Preprint
+ Charlie Z. Marshak, M.</description>
+    </item>
+    
+  </channel>
+</rss>

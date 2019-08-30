@@ -1,0 +1,69 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+
+
+baseurl = "http://www.example.com"
+title = "Charlie Marshak"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+
+
+[params]
+    author = "Charlie Marshak"
+    info = "JPL Postdoctoral Fellow"
+    description = "Charlie Marshak's Website"
+    keywords = "Me"
+    avatarurl = "images/me_in_tokyo.jpg"
+
+    favicon_32 = "/images/academic.png"
+    favicon_16 = "/images/academic.png"
+
+    footercontent = "Charlie Marshak's Website"
+
+    hidecredits = true
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Mail"
+    icon = "fa fa-envelope"
+    weight = 1
+    url = "mailto:charlie.z.marshak@jpl.nasa.gov"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 2
+    url = "https://github.com/cmarshak"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/charlie-marshak-9296371a/"
+
+[[params.social]]
+    name = "Google Scholar"
+    icon = "fa  fa-graduation-cap"
+    weight = 4
+    url = "https://scholar.google.com/citations?user=zHHVthsAAAAJ&hl=en&oi=ao"
+
+
+
+# Menu links
+[[menu.main]]
+    name = "Publications"
+    weight = 2
+    url  = "/publications/"
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
