@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Charlie Marshak</title>
-    <link>http://example.org/events/</link>
+    <link>www.charlie-marshak.net/events/</link>
     <description>Recent content in Events on Charlie Marshak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 30 Aug 2019 09:58:04 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.charlie-marshak.net/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>California Ballot Initiatives Discussion</title>
-      <link>http://example.org/events/my-first-post/</link>
+      <link>www.charlie-marshak.net/events/my-first-post/</link>
       <pubDate>Fri, 30 Aug 2019 09:58:04 -0700</pubDate>
       
-      <guid>http://example.org/events/my-first-post/</guid>
+      <guid>www.charlie-marshak.net/events/my-first-post/</guid>
       <description>Mona is giving a informational seminar at Eagle Rock Library.</description>
     </item>
     

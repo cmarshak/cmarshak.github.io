@@ -1,15 +1,11 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-
-
-baseurl = "http://www.example.com"
+baseurl = "www.charlie-marshak.net"
 title = "Charlie Marshak"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 20
-canonifyurls = true
+canonifyurls = false
 
 
 

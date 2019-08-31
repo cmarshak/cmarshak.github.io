@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>www.charlie-marshak.net/about/</loc>
     <lastmod>2019-08-30T13:44:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>www.charlie-marshak.net/</loc>
     <lastmod>2019-08-30T13:44:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/events/my-first-post/</loc>
+    <loc>www.charlie-marshak.net/events/my-first-post/</loc>
     <lastmod>2019-08-30T09:58:04-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/events/</loc>
+    <loc>www.charlie-marshak.net/events/</loc>
     <lastmod>2019-08-30T09:58:04-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>www.charlie-marshak.net/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/publications/</loc>
+    <loc>www.charlie-marshak.net/publications/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>www.charlie-marshak.net/tags/</loc>
   </url>
   
 </urlset>
