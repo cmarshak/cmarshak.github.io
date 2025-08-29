@@ -18,8 +18,17 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        submodules: true
         fetch-depth: 0
+        
+    - name: Initialize Hugo theme submodule
+      run: |
+        git submodule update --init --remote themes/hugo-coder || {
+          echo "Submodule update failed, removing and re-adding..."
+          git submodule deinit -f themes/hugo-coder
+          rm -rf themes/hugo-coder
+          git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+          git submodule update --init themes/hugo-coder
+        }
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
