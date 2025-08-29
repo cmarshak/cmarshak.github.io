@@ -1,33 +1,44 @@
-baseurl = "www.charlie-marshak.net"
+baseurl = "http://charlie-marshak.net"
 title = "Charlie Marshak"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
-canonifyurls = false
+[pagination]
+pagerSize = 20
+canonifyurls = true
 
 
 
 [params]
     author = "Charlie Marshak"
-    info = "JPL Postdoctoral Fellow"
-    description = "Charlie Marshak's Website"
-    keywords = "Me"
+    info = "Signal Analysis Engineer at JPL"
+    description = "Charlie Marshak's Website - Signal Analysis Engineer"
+    keywords = "Professional Website"
     avatarurl = "images/me_in_tokyo.jpg"
 
     favicon_32 = "/images/academic.png"
     favicon_16 = "/images/academic.png"
 
-    footercontent = "Charlie Marshak's Website"
+    footercontent = "Dr. Charlie Marshak's Website"
 
-    hidecredits = true
+    hidecredits = false
     hidecopyright = false
 
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    # Use inverted colors
+    inverted = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+
+    # Custom JS
+    custom_js = []
 
 # Social links
 [[params.social]]
