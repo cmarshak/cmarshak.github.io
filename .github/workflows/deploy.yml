@@ -47,6 +47,6 @@ jobs:
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
         external_repository: cmarshak/cmarshak.github.io
-        publish_branch: main
+        publish_branch: gh-pages
         publish_dir: ./public
         cname: charlie-marshak.net
