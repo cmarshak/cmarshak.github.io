@@ -3,17 +3,17 @@ title: "Publications and Conference Proceedings"
 slug: "publications"
 ---
 
-+ Hardiman-Mostow, Harris, Charlie Marshak, and Alexander L. Handwerger. "Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2025). [[Preprint](https://arxiv.org/abs/2501.09129)][[Publisher Link](https://ieeexplore.ieee.org/iel8/4609443/10766875/10947561.pdf)]
++ Harris Hardiman-Mostow, Charlie Marshak, and Alexander Handwerger. "Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2025). [[Preprint](https://arxiv.org/abs/2501.09129)][[Publisher Link](https://ieeexplore.ieee.org/iel8/4609443/10766875/10947561.pdf)]
 
 + Marc Simard, Michael Denbina, Charlie Marshak, and Maxim Neumann. "A Global Evaluation of Radar‐derived Digital Elevation Models: SRTM, NASADEM, and GLO‐30." Journal of Geophysical Research: Biogeosciences (2024). [[Publisher Link](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023JG007672)]. 
 
-+ Wang, Jiahui, et al. "Along‐arc volcanism in the western and central Aleutian from 2015 to 2021 revealed by cloud‐based InSAR processing." Geophysical Research Letters (2023). [[Publisher Link](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL106323)]
++ Jiahui Wang, Zhong Lu, David Bekaert, Charlie Marshak, Marin Govorcin , Simran Sangha, Joseph Kennedy, and Patricia Gregg. "Along‐arc volcanism in the western and central Aleutian from 2015 to 2021 revealed by cloud‐based InSAR processing." Geophysical Research Letters (2023). [[Publisher Link](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL106323)]
 
-+ Bekaert, David, Charlie Marshak, Simran Sangha, et al. "The ARIA-S1-GUNW: The ARIA Sentinel-1 Geocoded Unwrapped Phase Product for Open Insar Science and Disaster Response." IEEE International Geoscience and Remote Sensing Symposium (2023) [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282671.pdf)]
++ David Bekaert, Charlie Marshak, Simran Sangha, Marin Govorcin, Joseph Kennedy, Andrew Johnston, et al. "The ARIA-S1-GUNW: The ARIA Sentinel-1 Geocoded Unwrapped Phase Product for Open Insar Science and Disaster Response." IEEE International Geoscience and Remote Sensing Symposium (2023) [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282671.pdf)]
 
-+ Venkataramani, Karthik, Charlie Marshak, David Bekaert, Marc Simard, Michael Denbina, and Steven Chan. "Harmonizing SAR and optical data to map surface water extent: A deep learning approach." IEEE International Geoscience and Remote Sensing Symposium (2023). [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282284.pdf)]
++ Karthik Venkataramani, Charlie Marshak, David Bekaert, Marc Simard, Michael Denbina, and Steven Chan. "Harmonizing SAR and optical data to map surface water extent: A deep learning approach." IEEE International Geoscience and Remote Sensing Symposium (2023). [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282284.pdf)]
 
-+ Arena, Nicholas, et al. "Opera dynamic surface water extents for harmonized Landsat Sentinel-2 (DSWX-HLS) validation activities." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (2023). [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10283397.pdf)]
++ David Bekaert, John Jones, Charlie Marshak, Alexander Handwerger, et al. "OPERA dynamic surface water extents for harmonized Landsat Sentinel-2 (DSWX-HLS) validation activities." IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (2023). [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10283397.pdf)]
 
 + Carlos Silva, Laura Duncanson, Steven Hancock, Amy Neuenschwander, Nathan Thomas, Michelle Hofton, Lola Fatoyinbo, Marc Simard, Charles Marshak, John Armston, Scott Lutchke, Ralph Dubayah. Fusing Simulated GEDI, ICESat-2 and NISAR Data for Regional Aboveground Biomass Mapping, (Remote Sensing of Environment, 2021). [[Publisher Link](https://www.sciencedirect.com/science/article/pii/S0034425720306076)]
 
