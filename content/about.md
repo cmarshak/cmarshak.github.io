@@ -7,10 +7,11 @@ draft: false
 
 ## Timeline
 
-- **2020 - Present**: Signal Analysis Engineer at JPL, working on OPERA and ARIA<br> 
-- **2017 - 2020**: JPL Postdoctoral Fellow with Marc Simard<br>
-- **2010 - 2017**: UCLA, Applied Mathematics Ph.D. under Andrea Bertozzi and Mason Porter<br>
-- **2006 - 2010**: UC Berkeley, Mathematics B.A.
+- **2020 - Present**: Signal Analysis Engineer @ JPL, working on OPERA and ARIA<br> 
+- **2017 - 2020**: Postdoctoral Fellow @ JPL, supervised by Marc Simard<br>
+- **2010**: Operam, Data Scientist for clients in film and television
+- **2010 - 2017**: *UCLA*, Applied Mathematics Ph.D. under Andrea Bertozzi and Mason Porter<br>
+- **2006 - 2010**: *UC Berkeley*, Mathematics B.A.
 
 ## Summary
 
