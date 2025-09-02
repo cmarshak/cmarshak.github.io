@@ -5,7 +5,16 @@ date: 2019-08-30T13:44:13-07:00
 draft: false
 ---
 
-I am a Signal Analysis Engineer at Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov)) witin the [Radar Science and Engineering](https://www.jpl.nasa.gov/go/radar-science/) group. As a Signal Analysis engineer, I work as a geospatial data scientist, applying tools coming from varied disciplines including deep learning, network science, statistics, and computer vision to design algorithms for and to analyze signals from Syntehtic Aperture Radar (SAR) imagery. I currently work on the JPL projects Observational Products for End-Users from Remote Sensing Analysis ([OPERA](https://www.jpl.nasa.gov/go/opera)) and Advanced Rapid Imaging and Analysis ([ARIA](https://aria.jpl.nasa.gov/)). It is a privilege to be apart of these projects, supporting the generation of products to delineate hazards, identify surface water, and quantify surface displacement.
+## Timeline
+
+- **2020 - Present**: Signal Analysis Engineer at JPL, working on OPERA and ARIA<br> 
+- **2017 - 2020**: JPL Postdoctoral Fellow with Marc Simard<br>
+- **2010 - 2017**: UCLA, Applied Mathematics Ph.D. under Andrea Bertozzi and Mason Porter<br>
+- **2006 - 2010**: UC Berkeley, Mathematics B.A.
+
+## Summary
+
+I am a Signal Analysis Engineer at Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov)) witin the [Radar Science and Engineering](https://www.jpl.nasa.gov/go/radar-science/) section. As a Signal Analysis engineer, I work as a geospatial data scientist, applying tools coming from varied disciplines including deep learning, network science, statistics, and computer vision to design algorithms for and to analyze signals from Syntehtic Aperture Radar (SAR) imagery. I currently work on the JPL projects Observational Products for End-Users from Remote Sensing Analysis ([OPERA](https://www.jpl.nasa.gov/go/opera)) and Advanced Rapid Imaging and Analysis ([ARIA](https://aria.jpl.nasa.gov/)). It is a privilege to be apart of these projects, supporting the generation of products to delineate hazards, identify surface water, and quantify surface displacement.
 
 On OPERA, I support the product called Disturbance from Sentinel-1 ([DIST-S1](https://www.jpl.nasa.gov/go/opera/products/dist-product-suite/)), which is part of the SAR and optical disturbance suite. We identify generic surface disturbances by comparing a recent set of Sentinel-1 acquisitions to a baseline of historical imagery. The input imagery comes from the [OPERA Radiometrically and Terrain corrected imagery](https://www.jpl.nasa.gov/go/opera/products/rtc-product/) which corrects for geometric affects associated with process of SAR image formation. The disturbance product is a powerful tool to help delineate hazards such as fires and floods after a Sentinel-1 pass. The open-source software for DIST-S1 surface disturbance can be found [here](https://github.com/opera-adt/dist-s1). I have also supported validation activities, documenting [requirements](https://d2pn8kiwq2w21t.cloudfront.net/documents/OPERA_Validation_Plan.pdf) for the project and writing software to verify the requirements were met. I worked on the latter for the Dynamic Surface Water Extent ([DSWx](https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite/)) products. Validation entails ensuring that the OPERA products meet minimum accuracy and quality requirements using independent datasets and measurements. The open-source software for the DSWx product suite can be found [here](https://github.com/OPERA-Cal-Val/DSWx-Requirement-Verification). 
 

@@ -40,6 +40,11 @@ canonifyurls = true
     # Custom JS
     custom_js = []
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Social links
 [[params.social]]
     name = "Mail"
