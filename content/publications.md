@@ -9,7 +9,7 @@ slug: "publications"
 
 + Jiahui Wang, Zhong Lu, David Bekaert, Charlie Marshak, Marin Govorcin , Simran Sangha, Joseph Kennedy, and Patricia Gregg. "Along‐arc volcanism in the western and central Aleutian from 2015 to 2021 revealed by cloud‐based InSAR processing." Geophysical Research Letters (2023). [[Publisher Link](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL106323)]
 
-+ David Bekaert, Charlie Marshak, Simran Sangha, Marin Govorcin, Joseph Kennedy, Andrew Johnston, et al. "The ARIA-S1-GUNW: The ARIA Sentinel-1 Geocoded Unwrapped Phase Product for Open Insar Science and Disaster Response." IEEE International Geoscience and Remote Sensing Symposium (2023) [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282671.pdf)]
++ David Bekaert, Charlie Marshak, Simran Sangha, Marin Govorcin, Joseph Kennedy, Andrew Johnston, et al. "The ARIA-S1-GUNW: The ARIA Sentinel-1 Geocoded Unwrapped Phase Product for Open InSAR Science and Disaster Response." IEEE International Geoscience and Remote Sensing Symposium (2023) [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282671.pdf)]
 
 + Karthik Venkataramani, Charlie Marshak, David Bekaert, Marc Simard, Michael Denbina, and Steven Chan. "Harmonizing SAR and optical data to map surface water extent: A deep learning approach." IEEE International Geoscience and Remote Sensing Symposium (2023). [[Publisher Link](https://ieeexplore.ieee.org/iel7/10281394/10281399/10282284.pdf)]
 
@@ -32,4 +32,4 @@ slug: "publications"
 
 + Charlie Marshak, M. Puck Rombach, Andrea L. Bertozzi, and Maria R. D'Orsogna. Pursuit on an Organized Crime Network. (Phys. Rev. E 93, 022308, 2016). [[Preprint](https://arxiv.org/abs/1510.08106)] [[Publisher link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.022308)]
 
-+ Roman Ruggera, Pedro Blendinger, Charlie Marshak. Linking Structure and Functionality in Mutualistic Networks: Do Core Frugivores Disperse More Seeds than Peripheral Species? (Oikos Journal, 2015). [[Link](https://www.researchgate.net/profile/Pedro-Blendinger/publication/281708025_Linking_structure_and_functionality_in_mutualistic_networks_Do_core_frugivores_disperse_more_seeds_than_peripheral_species/links/5e9319194585150839d6a097/Linking-structure-and-functionality-in-mutualistic-networks-Do-core-frugivores-disperse-more-seeds-than-peripheral-species.pdf)]
++ Roman Ruggera, Pedro Blendinger, Charlie Marshak. Linking Structure and Functionality in Mutualistic Networks: Do Core Frugivores Disperse More Seeds than Peripheral Species? (Oikos Journal, 2015). [[Research Gate Link](https://www.researchgate.net/profile/Pedro-Blendinger/publication/281708025_Linking_structure_and_functionality_in_mutualistic_networks_Do_core_frugivores_disperse_more_seeds_than_peripheral_species/links/5e9319194585150839d6a097/Linking-structure-and-functionality-in-mutualistic-networks-Do-core-frugivores-disperse-more-seeds-than-peripheral-species.pdf)]
