@@ -35,6 +35,6 @@ I earned my Ph.D. at UCLA under the supervision of [Andrea Bertozzi](https://www
 - [Harris Hardiman-Mostow](https://hardiman-mostow.github.io/) (Summer 2025, [JIFRESSE](https://jifresse.ucla.edu/) Internship) - with [Alex Handwerger](https://scholar.google.com/citations?user=xJd0NekAAAAJ&hl=en) 
   - Self-supervised disturbance from OPERA RTC-S1 - [JSTARS paper](https://arxiv.org/abs/2501.09129)
 - Angela Cheng (Summer 2022) - with [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani)
-  - Examining coverage across OPERA sensors - [Github Link](https://github.com/OPERA-Cal-Val/OPERA_coverage)
+  - Examining coverage across sensors used in OPERA products - [Github Link](https://github.com/OPERA-Cal-Val/OPERA_coverage)
 - [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani) (2022-2023) - with [David Bekaert](https://www.davidbekaert.com/) 
   - Retrieval of Surface Water with L-band ALOS-1 and optical mosaics - [IGARSS paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10282284)
