@@ -5,7 +5,7 @@ date: 2019-08-30T13:44:13-07:00
 draft: false
 ---
 
-## Timeline
+## Professional Timeline
 
 - **Nov. 2020 - Present**: Signal Analysis Engineer @ JPL, working on [OPERA](https://www.jpl.nasa.gov/go/opera/) and [ARIA](https://aria.jpl.nasa.gov/), with [David Bekaert's](https://www.davidbekaert.com/) group<br> 
 - **Dec. 2017 - Nov. 2020**: Postdoctoral Fellow @ JPL, supervised by [Marc Simard](https://www.jpl.nasa.gov/site/research/simard/)<br>
@@ -13,7 +13,7 @@ draft: false
 - **2010 - 2017**: Applied Mathematics Ph.D. @ UCLA, supervised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Mason Porter](https://www.math.ucla.edu/~mason/)<br>
 - **2006 - 2010**: Mathematics B.A. @ UC Berkeley
 
-## Summary
+## Professional Summary
 
 I am a Signal Analysis Engineer at Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov)) witin the [Radar Science and Engineering](https://www.jpl.nasa.gov/go/radar-science/) section. As a Signal Analysis engineer, I work as a geospatial data scientist, applying tools coming from varied disciplines including deep learning, network science, statistics, and computer vision to design algorithms for and to analyze signals from Syntehtic Aperture Radar (SAR) imagery. I currently work on the JPL projects Observational Products for End-Users from Remote Sensing Analysis ([OPERA](https://www.jpl.nasa.gov/go/opera)) and Advanced Rapid Imaging and Analysis ([ARIA](https://aria.jpl.nasa.gov/)). It is a privilege to be apart of these projects, supporting the generation of products to help delineate hazards, identify surface water, and quantify surface displacement.
 
@@ -26,3 +26,14 @@ You can now even request the generation of the ARIA-S1-GUNW products as document
 Before becoming a signal analysis engineer, I was a JPL postdoctoral fellow working under the supervision of [Marc Simard](https://scholar.google.com/citations?user=JQJF1wgAAAAJ&hl=en) using airborne and satellite [SAR](https://en.wikipedia.org/wiki/Synthetic-aperture_radar) imagery to estimate biomass in dense tropical forests, map mangrove extents, generate [river networks](https://github.com/simard-landscape-lab/orinoco) to support hydrological discharge analyses, and detect forest disturbances for L-band imagery (in preparation for [NISAR](https://nisar.jpl.nasa.gov/)) using data from [ALOS-1](https://www.eorc.jaxa.jp/ALOS/en/about/palsar.htm), [ALOS-2](https://www.eorc.jaxa.jp/ALOS-2/en/about/palsar2.htm), and [UAVSAR](https://uavsar.jpl.nasa.gov/). In addition, we created remote sensing [tutorials](https://github.com/simard-landscape-lab/sari-tutorial) for NASA's [Land-Cover and Land-Use Change program](https://lcluc.umd.edu/) to foster international remote sensing collaborations.
 
 I earned my Ph.D. at UCLA under the supervision of [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Mason Porter](https://www.math.ucla.edu/~mason/) in applied and computational mathematics. I also worked closely with [Puck Rombach](http://www.uvm.edu/~mrombach/) during that time. I modeled processes in education, ecology, and organized crime using tools from [network science](https://en.wikipedia.org/wiki/Network_science). Additionally, I interned with [Igor Yanovsky](https://www.math.ucla.edu/~yanovsky/) in the summer of 2016 applying [Le-Vese segmentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.8251&rep=rep1&type=pdf) to [MISR](https://misr.jpl.nasa.gov/) images. Before coming to JPL as a postdoc, I worked at the advertising startup Operam as a data scientist measuring online engagement for clients in film and television.
+
+## Postdocs and Internships Supervised
+
+- [Jack Mauro](https://www.linkedin.com/in/jack-mauro-21856417a) (Summer/Fall 2025) - with [Talib Oliver-Cabrera](https://scholar.google.com/citations?user=j9Vm1MIAAAAJ&hl=en)
+  - Self-supervised disturbance detection from OPERA RTC-S1
+- [Harris Hardiman-Mostow](https://hardiman-mostow.github.io/) (Summer 2025, [JIFRESSE](https://jifresse.ucla.edu/) Internship) - with [Alex Handwerger](https://scholar.google.com/citations?user=xJd0NekAAAAJ&hl=en) 
+  - Self-supervised disturbance from OPERA RTC-S1 - [JSTARS paper](https://arxiv.org/abs/2501.09129)
+- Angela Cheng - UC Berkeley Undergrad (Summer 2022) 
+  - Examining coverage across OPERA sensors - [Github Link](https://github.com/OPERA-Cal-Val/OPERA_coverage)
+- [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani) (2022-2023) - with [David Bekaert](https://www.davidbekaert.com/) 
+  - Retrieval of Surface Water with L-band ALOS-1 and optical mosaics - [IGARSS paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10282284)
