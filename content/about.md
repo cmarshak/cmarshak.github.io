@@ -33,7 +33,7 @@ I earned my Ph.D. at UCLA under the supervision of [Andrea Bertozzi](https://www
 - [Jack Mauro](https://www.linkedin.com/in/jack-mauro-21856417a) (Summer/Fall 2025) - with [Talib Oliver-Cabrera](https://scholar.google.com/citations?user=j9Vm1MIAAAAJ&hl=en)
   - Self-supervised disturbance detection from OPERA RTC-S1
 - [Harris Hardiman-Mostow](https://hardiman-mostow.github.io/) (Summer 2025, [JIFRESSE](https://jifresse.ucla.edu/) Internship) - with [Alex Handwerger](https://scholar.google.com/citations?user=xJd0NekAAAAJ&hl=en) 
-  - Self-supervised disturbance from OPERA RTC-S1 - [JSTARS paper](https://arxiv.org/abs/2501.09129)
+  - Self-supervised disturbance detection from OPERA RTC-S1 - [JSTARS paper](https://arxiv.org/abs/2501.09129)
 - Angela Cheng (Summer 2022) - with [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani)
   - Examining coverage across sensors used in OPERA products - [Github Link](https://github.com/OPERA-Cal-Val/OPERA_coverage)
 - [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani) (2022-2023) - with [David Bekaert](https://www.davidbekaert.com/) 
