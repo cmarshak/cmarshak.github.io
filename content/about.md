@@ -7,7 +7,7 @@ draft: false
 
 ## Timeline
 
-- **Nov. 2020 - Present**: Signal Analysis Engineer @ JPL, working on [OPERA](https://www.jpl.nasa.gov/go/opera/) and [ARIA](https://aria.jpl.nasa.gov/) with [David Bekaert](https://www.davidbekaert.com/)<br> 
+- **Nov. 2020 - Present**: Signal Analysis Engineer @ JPL, working on [OPERA](https://www.jpl.nasa.gov/go/opera/) and [ARIA](https://aria.jpl.nasa.gov/), with [David Bekaert's](https://www.davidbekaert.com/) group<br> 
 - **Dec. 2017 - Nov. 2020**: Postdoctoral Fellow @ JPL, supervised by [Marc Simard](https://www.jpl.nasa.gov/site/research/simard/)<br>
 - **Jan. 2017 - Nov. 2017**: Data Scientist @ Operam, measuring online engagement for film and television
 - **2010 - 2017**: Applied Mathematics Ph.D. @ UCLA, supervised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Mason Porter](https://www.math.ucla.edu/~mason/)<br>
