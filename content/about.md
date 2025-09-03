@@ -7,7 +7,7 @@ draft: false
 
 ## Professional Timeline
 
-- **Nov. 2020 - Present**: Signal Analysis Engineer @ JPL, working on [OPERA](https://www.jpl.nasa.gov/go/opera/) and [ARIA](https://aria.jpl.nasa.gov/), with [David Bekaert's](https://www.davidbekaert.com/) group<br> 
+- **Nov. 2020 - Present**: Signal Analysis Engineer @ JPL, working on [OPERA](https://www.jpl.nasa.gov/go/opera/) and [ARIA](https://aria.jpl.nasa.gov/), with [David Bekaert's](https://www.davidbekaert.com/) group and Radar Science<br> 
 - **Dec. 2017 - Nov. 2020**: Postdoctoral Fellow @ JPL, supervised by [Marc Simard](https://www.jpl.nasa.gov/site/research/simard/)<br>
 - **Jan. 2017 - Nov. 2017**: Data Scientist @ Operam, measuring online engagement for film and television
 - **2010 - 2017**: Applied Mathematics Ph.D. @ UCLA, supervised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/) and [Mason Porter](https://www.math.ucla.edu/~mason/)<br>
@@ -21,7 +21,8 @@ On OPERA, I currently support the product called Disturbance from Sentinel-1 ([D
 
 On [ARIA](https://aria.jpl.nasa.gov/), I support the cloud processing that generates the [ARIA-S1-GUNW](https://hyp3-docs.asf.alaska.edu/hyp3-docs/guides/gunw_product_guide/) geocoded interferograms and related products for tectonically active areas. These intefergorams can provide centimeter-scale information about surface displacement after landslides, earthquakes or volcanoes. We have developed many open-source [tools](https://github.com/ACCESS-Cloud-Based-InSAR) to better enable such processing in the cloud. We effectively wrap [ISCE2](https://github.com/isce-framework/isce2-docs/blob/master/Notebooks/UNAVCO_2020/TOPS/topsApp.ipynb) to process Sentinel-1 [TOPS imagery](https://asf.alaska.edu/data-sets/sar-data-sets/sentinel-1/sentinel-1-what-is-topsar/) and [RAiDER](https://github.com/dbekaert/RAiDER) to perform tropospheric corrections, generating these products at scale. These [interferometric products](https://search.asf.alaska.edu/#/?dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA)&resultsLoaded=true&granule=S1-GUNW-A-R-160-tops-20201020_20191020-154904-32061N_30175N-PP-7db9-v2_0_3-amplitude) can be searched and downloaded from the Alaska Satellite Facility data page. 
 I worked closely with [David Bekaert](https://www.davidbekaert.com/), who served as the ARIA project scientist until 2025 to grow the archive from just over 200,000 products to nearly [1.1 million](https://search.asf.alaska.edu/#/?dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA)&productTypes=GUNW_STD&resultsLoaded=true&granule=S1-GUNW-A-R-018-tops-20230528_20230516-232801-00072W_00037S-PP-2468-v2_0_6).
-You can now even request the generation of the ARIA-S1-GUNW products as documented [here](https://hyp3-docs.asf.alaska.edu/hyp3-docs/guides/gunw_product_guide/).
+This accomplishment was facilitated by the [NASA ACCESS Grant](https://www.earthdata.nasa.gov/news/feature-articles/big-data-meet-open-science)) that permitted a highly productive collaboration between JPL and ASF, including [Joseph Kennedy](https://jhkennedy.org/) and [Andrew Johnston](https://github.com/asjohnston-asf).
+You can now even request the generation of the ARIA-S1-GUNW products on-demand from recent Sentinel-1 acquisitions (instructions [here](https://hyp3-docs.asf.alaska.edu/hyp3-docs/guides/gunw_product_guide/)).
 
 Before becoming a signal analysis engineer, I was a JPL postdoctoral fellow working under the supervision of [Marc Simard](https://scholar.google.com/citations?user=JQJF1wgAAAAJ&hl=en) using airborne and satellite [SAR](https://en.wikipedia.org/wiki/Synthetic-aperture_radar) imagery to estimate biomass in dense tropical forests, map mangrove extents, generate [river networks](https://github.com/simard-landscape-lab/orinoco) to support hydrological discharge analyses, and detect forest disturbances for L-band imagery (in preparation for [NISAR](https://nisar.jpl.nasa.gov/)) using data from [ALOS-1](https://www.eorc.jaxa.jp/ALOS/en/about/palsar.htm), [ALOS-2](https://www.eorc.jaxa.jp/ALOS-2/en/about/palsar2.htm), and [UAVSAR](https://uavsar.jpl.nasa.gov/). In addition, we created remote sensing [tutorials](https://github.com/simard-landscape-lab/sari-tutorial) for NASA's [Land-Cover and Land-Use Change program](https://lcluc.umd.edu/) to foster international remote sensing collaborations.
 
@@ -33,7 +34,7 @@ I earned my Ph.D. at UCLA under the supervision of [Andrea Bertozzi](https://www
   - Self-supervised disturbance detection from OPERA RTC-S1
 - [Harris Hardiman-Mostow](https://hardiman-mostow.github.io/) (Summer 2025, [JIFRESSE](https://jifresse.ucla.edu/) Internship) - with [Alex Handwerger](https://scholar.google.com/citations?user=xJd0NekAAAAJ&hl=en) 
   - Self-supervised disturbance from OPERA RTC-S1 - [JSTARS paper](https://arxiv.org/abs/2501.09129)
-- Angela Cheng - UC Berkeley Undergrad (Summer 2022) 
+- Angela Cheng (Summer 2022) - with [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani)
   - Examining coverage across OPERA sensors - [Github Link](https://github.com/OPERA-Cal-Val/OPERA_coverage)
 - [Karthik Venkataramani](https://www.linkedin.com/in/karthikvenkataramani) (2022-2023) - with [David Bekaert](https://www.davidbekaert.com/) 
   - Retrieval of Surface Water with L-band ALOS-1 and optical mosaics - [IGARSS paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10282284)
